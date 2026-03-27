@@ -1,7 +1,7 @@
 # Optimisation Algorithms in Neural Networks
 
 ## 📘 Project Title
-Comparative Study of Optimisation Algorithms in Neural Networks
+Optimisation Algorithms in Neural Networks
 
 ---
 
